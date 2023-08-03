@@ -59,9 +59,10 @@ public class SansthaPostingController {
 
 	@Autowired
 	private Sansthabankpaymentrepo sansthabankpaymentrepo;
-
+     //dhokla phapda
 	// other Exps Journal Sanstha
 	// save other Exps Journal Sanstha
+	//xyz
 	@PostMapping("/saveOtherExpsJournalSanstha")
 	@ResponseBody
 	public Response saveOtherExpsJournalSanstha(@RequestBody OtherExpsJournalSanstha otherExpsJournalSanstha) {
