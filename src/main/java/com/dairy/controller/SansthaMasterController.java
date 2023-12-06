@@ -105,7 +105,7 @@ public class SansthaMasterController {
 		
 	}
 
-	
+	//MYCODE
 	//Save Sanstha master
 	@PostMapping("/saveSanstha")
 	@ResponseBody
